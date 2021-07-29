@@ -1,4 +1,4 @@
-# "Martin King-Junior's-famous-speech-summarisation-with-nltk"
+# "Martin Luther King Junior's famous speech summarisation with nltk"
 
 
 I scraped and parsed data from a website where his speech's plain transcript was available.
